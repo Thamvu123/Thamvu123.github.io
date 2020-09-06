@@ -479,7 +479,7 @@ h1, h2, h3, h4, h5,
     font-size: 1.7rem; }
     .site-navbar .site-logo a {
       color: #3e64ff;
-      text-transform: lowercase; }
+     }
     @media (max-width: 991.98px) {
       .site-navbar .site-logo {
         float: left;
@@ -1622,7 +1622,7 @@ h1, h2, h3, h4, h5,
 .box-92819 {
   z-index: 2;
   background: #fff;
-  padding: 4rem;
+  padding: 3rem;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -1680,3 +1680,9 @@ h1, h2, h3, h4, h5,
     position: relative;
     z-index: 1;
     max-width: 80px; }
+h1{
+  font-size: 2.2rem;
+}
+.nguyenvong{
+  text-align: justify;
+}
